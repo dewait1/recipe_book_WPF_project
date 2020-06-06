@@ -1,0 +1,28 @@
+﻿<Page x:Name="AddProductWindow1" x:Class="MyRecipeBook.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyRecipeBook"
+        mc:Ignorable="d"
+        Title="Add Product" Height="350" Width="600"
+      WindowTitle="Add Product"
+      WindowHeight="410"
+      WindowWidth="610"
+      >
+    <Grid>
+        <Button x:Name="okButton" Content="OK" Height="19.5" Margin="217,0,218,10" VerticalAlignment="Bottom" Click="okButton_Click" />
+        <ListBox x:Name="productList" Margin="10,10,10,40.364" Style="{DynamicResource SimpleListBox}"/>
+        <StackPanel Margin="10,10,10,40.364">
+            <ListBox x:Name="listOfProducts" ItemsSource="{Binding TheList}" Margin="10,10,10,82.364" Height="281">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox x:Name="CheckBoxZone" Content="{Binding TheText}" Tag="{Binding TheValue}" Checked="CheckBoxZone_Checked"/>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Label d:IsHidden="True"></Label>
+        </StackPanel>
+        <Label x:Name="label" Content="Please select the products you have:" HorizontalAlignment="Left" Margin="15.667,4.333,0,0" VerticalAlignment="Top" Height="24.297" Width="182.817" FontSize="9"/>
+    </Grid>
+</Page>

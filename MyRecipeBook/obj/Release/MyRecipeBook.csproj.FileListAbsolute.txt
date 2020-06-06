@@ -1,0 +1,26 @@
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\bin\Release\MyRecipeBook.exe.config
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\bin\Release\MyRecipeBook.exe
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\bin\Release\MyRecipeBook.pdb
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\Simple Styles.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\AddProductWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\AllRecipesWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\FormRecipesWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MainWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyFridgeWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\RecipeWindow.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\App.g.cs
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook_MarkupCompile.cache
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook_MarkupCompile.lref
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\App.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\AddProductWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\AllRecipesWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\FormRecipesWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MainWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyFridgeWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\RecipeWindow.baml
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.g.resources
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.Properties.Resources.resources
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.exe
+C:\Users\Thomas\Desktop\ProgramowanieP\Program\MyRecipeBook\MyRecipeBook\obj\Release\MyRecipeBook.pdb
